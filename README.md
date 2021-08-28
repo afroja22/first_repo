@@ -1,1 +1,1 @@
-# first_repo
+C programming repository
