@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("hell world \n");
+    printf("Thank you \n");
 }
